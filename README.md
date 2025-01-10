@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im new to the CS World so hoping to learn a lot from my fellow classmates and professor. Being able to see the different ways to do things will be a big takeaway from this learning experience.
+Im new to the CS World, so hoping to learn a lot from my fellow classmates and professor. Being able to see the different ways to do things will be a big takeaway from this learning experience.
 Will continue to add more this readme as we move along.
 <!--
 **Dfilsaime/Dfilsaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
